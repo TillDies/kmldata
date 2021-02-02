@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>MAZ</name>
+    <description/>
+    <Style id="icon-1511-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1511-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1511-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1511-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1511-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Untitled layer</name>
+      <Placemark>
+        <name>Werk-Statt-Schule e.V.</name>
+        <description><![CDATA[<img src="https://doc-14-6c-mymaps.googleusercontent.com/untrusted/hostedimage/citfits9hgk9o55uvdpelsm5v8/i5nc55jfitj5jupe4tf4f0sd3s/1612255690500/lJI5evW5uEbVQLWod5AXiYkA8wQrFjZw/02596419012948791086/5AF2TALpgpG9mkE9QvsfgcTDW1fGN-eqK8lFNakOe5a15DzFYeEPRAk5nZ9CudQ5BHZ3rIqjyNoUWHu_zzBgv0Y2uPOWdulK97VsCD1-YMe6iQW31Lw7KcYRI0jHgF-crnMJB9SOtxB-0ARsXdmLlcEIMfMvFlI1xqENfVx3jTj9M22BFcK-acquWr8fmljQgI2QcQ6e50SBp4_KcPuo3gCvdb7ODyVVUhrSATcxIMefOd6XWqr9yyv7nGt1J9FYWwF1Ud0LXzvn7UBBbreODGZhnHgTthiwsYg?session=0&fife" height="200" width="auto" /><br><br>Friedrich-Ebert-Wall 1, 37154 Northeim<br>www.werk-statt-schule.de<br>+49 5551 97880]]></description>
+        <styleUrl>#icon-1511-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://doc-14-6c-mymaps.googleusercontent.com/untrusted/hostedimage/citfits9hgk9o55uvdpelsm5v8/i5nc55jfitj5jupe4tf4f0sd3s/1612255690500/lJI5evW5uEbVQLWod5AXiYkA8wQrFjZw/02596419012948791086/5AF2TALpgpG9mkE9QvsfgcTDW1fGN-eqK8lFNakOe5a15DzFYeEPRAk5nZ9CudQ5BHZ3rIqjyNoUWHu_zzBgv0Y2uPOWdulK97VsCD1-YMe6iQW31Lw7KcYRI0jHgF-crnMJB9SOtxB-0ARsXdmLlcEIMfMvFlI1xqENfVx3jTj9M22BFcK-acquWr8fmljQgI2QcQ6e50SBp4_KcPuo3gCvdb7ODyVVUhrSATcxIMefOd6XWqr9yyv7nGt1J9FYWwF1Ud0LXzvn7UBBbreODGZhnHgTthiwsYg?session=0&fife]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            9.9996481,51.7081771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
